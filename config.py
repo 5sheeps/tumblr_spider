@@ -6,7 +6,7 @@ PAGE_RANG = range(0, 100)
 #设置请求头信息，更换自己的Cookie
 HEADERS = {
     'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36',
-    'Cookie':'自得的Cookie'
+    'Cookie':'127.0.0.1'
 }
 
 #爬取图片存储路径
