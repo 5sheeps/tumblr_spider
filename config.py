@@ -10,7 +10,7 @@ HEADERS = {
 }
 
 #爬取图片存储路径
-DIR_PATH = os.path.join(os.path.abspath('.'), 'images')
+DIR_PATH = os.path.join(os.path.abspath('https://www.tumblr.com/dashboard'), 'images')
 
 #设置代理http 或者 socket
 PROXIES = {
